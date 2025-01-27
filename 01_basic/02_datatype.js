@@ -7,6 +7,7 @@ console.log(3+3); console.log("akhand singh")
 
 let name="akhand"
 let age =18
+let agea="18"
 let isloggedin=false
 let state;
 
@@ -17,8 +18,11 @@ let state;
 //null => standalone value
 //undefined =>
 //symbol => unique (mostly used in react)
+
  //object
-console.log(typeof "akhand");
+
+console.log(typeof "akhand"); //string
+console.log(typeof agea); //string
 console.log(typeof age);  //number
 console.log(typeof null);  //object
 console.log(typeof undefined);  //undefined
