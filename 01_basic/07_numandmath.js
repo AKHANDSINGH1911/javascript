@@ -26,8 +26,8 @@
 // console.log(Math.max(4, 3, 6, 8));//8
 
 console.log(Math.random()); //kuch bhi random value ajyegi 0 and 1 ke bech main
-console.log((Math.random()*10) + 1); +1 mtlb hemsha 1 se bda hoga
-console.log(Math.floor(Math.random()*10) + 1); floor hmesha 1 hoga
+console.log((Math.random()*10) + 1); +1 //mtlb hemsha 1 se bda hoga
+console.log(Math.floor(Math.random()*10) + 1); //loor hmesha 1 hoga
 
 const min = 10
 const max = 20
