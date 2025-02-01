@@ -26,8 +26,26 @@ while (arr < myArray.length) {
 // ///////////////////////////////////////////
 
 /////////////DO WHILE (ENTRY CONTROL LOOP) //////////////
-let score = 11
+let score = 1
 do {
     console.log(`Score is ${score}`);  //Score is 11 
     score++
 } while (score <= 10);
+//////////////////////////////////////
+// Score is 1
+// Score is 2
+// Score is 3
+// Score is 4
+// Score is 5
+// Score is 6
+// Score is 7
+// Score is 8
+// Score is 9
+// Score is 10
+///////////////////////////////////////////
+
+let score2 = 11
+do {
+    console.log(`Score is ${score2}`);  //Score is 11 
+    score2++
+} while (score2 <= 10);
