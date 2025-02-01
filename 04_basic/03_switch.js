@@ -41,15 +41,15 @@ if (userEmail) {
 } else {
     console.log("Don't have user email");
 }
-const userEmail = ""  //EMPTY STRING
-if (userEmail) {
+const userEmail3 = ""  //EMPTY STRING
+if (userEmail3) {
     console.log("Got user email"); 
 } else {
     console.log("Don't have user email");//YE WALA PRINT HOGA COMPUTER NE FLASE MAN LIYA
 }
 
-const userEmail = "akhand" //value hai
-if (userEmail) {
+const userEmail2 = "akhand" //value hai
+if (userEmail2) {
     console.log("Got user email");   //ye wala kyuki valise hai mtlb true hai
 } else {
     console.log("Don't have user email");
@@ -63,8 +63,8 @@ if (userEmail) {
 // "0", 'false', " "(string with space), [](empty array), {}(empty object), function(){}(empty function as no parametr inside)
 
 //check if arrray is empty
-const userEmail2 = []  //EMPTY ARRAY
-if (userEmail2.length === 0) {
+const userEmail4 = []  //EMPTY ARRAY
+if (userEmail4.length === 0) {
     console.log("Array is empty"); //true
 }
 

@@ -74,4 +74,4 @@ console.log(2!=="2"); //true as both data type is not same one is number and oth
 
 // if (loggedInFromGoogle || loggedInFromEmail) {
 //     console.log("User logged in");  // run as one part is true in or ||
-// }
+}
